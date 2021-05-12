@@ -2,7 +2,7 @@
 
 ## Build From Home 2021 Resources
 ---
-Instructions [->](https://www.notion.so/Build-From-Home-by-TinkerHub-ab27844482524837aed175a57cf560cf)
+[Instructions](https://www.notion.so/Build-From-Home-by-TinkerHub-ab27844482524837aed175a57cf560cf)
 
 ### Team List
 1. Flutter
