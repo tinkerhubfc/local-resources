@@ -29,6 +29,7 @@
  ---
  ### Python Resources
  1. [Python for absolute beginners](https://youtu.be/rfscVS0vtbw)
- 2. [Python Flask Basics](https://youtu.be/x_c8pTW8ZUc)
- 3. [Python Install](https://www.python.org/downloads/)
- 4. [VS Code (Optional Editor)](https://code.visualstudio.com/Download)
+ 2. [Python Malayalam](https://youtu.be/LP_93bSBwTs)
+ 3. [Python Flask Basics](https://youtu.be/x_c8pTW8ZUc)
+ 4. [Python Install](https://www.python.org/downloads/)
+ 5. [VS Code (Optional Editor)](https://code.visualstudio.com/Download)
