@@ -6,25 +6,25 @@ Instructions [->](https://www.notion.so/Build-From-Home-by-TinkerHub-ab278444825
 
 ### Team List
 1. Flutter
-   *. Rijfas
-   *. Asif 
-   *. Faiz
+   - Rijfas
+   - Asif 
+   - Faiz
 2. Python 1
-  *. Unni
-  *. Hari
-  *. Anaswara
+  - Unni
+  - Hari
+  - Anaswara
 3. Python 2
-  *. Adil
-  *. Ali Muflih
-  *. Sahal
+  - Adil
+  - Ali Muflih
+  - Sahal
 4. Python 3
-  *. Aflah
-  *. Fiza
-  *. Rifana
+  - Aflah
+  - Fiza
+  - Rifana
 5. Python 4
-  *. Harshal
-  *. Juwairiyah
-  *. Adithya
+  - Harshal
+  - Juwairiyah
+  - Adithya
   
  ---
  ### Python Resources
